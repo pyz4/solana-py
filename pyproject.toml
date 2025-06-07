@@ -1,3 +1,9 @@
+[project]
+name = "solana"
+version = "0.34.0
+description = "Solana Python API"
+requires-python = ">=3.11"
+
 [tool.poetry]
 name = "solana"
 version = "0.34.0"
@@ -23,7 +29,6 @@ packages = [
     { include = "solana", from = "src" },
     { include = "spl", from = "src" },
 ]
-requires-python = ">=3.11"
 
 [tool.poetry.dependencies]
 python = "^3.8"
