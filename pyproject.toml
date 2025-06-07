@@ -2,7 +2,7 @@
 name = "solana"
 version = "0.34.0"
 description = "Solana Python API"
-requires-python = ">=3.11"
+requires-python = ">=3.8"
 
 [tool.poetry]
 name = "solana"
