@@ -23,6 +23,7 @@ packages = [
     { include = "solana", from = "src" },
     { include = "spl", from = "src" },
 ]
+requires-python = ">=3.11"
 
 [tool.poetry.dependencies]
 python = "^3.8"
